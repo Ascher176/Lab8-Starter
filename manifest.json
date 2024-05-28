@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Anya, Clarissa, Dhruv",
     "description": "Recipe Cards",
-    "start_url": "./Lab8-Starter",
+    "start_url": "./",
     "display": "fullscreen",
     "background_color": "grey",
     "theme_color": "red",
